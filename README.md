@@ -1,2 +1,5 @@
 # pull_requests
-pythonでプルリクを取得したいわん！
+プルリクを取得してslackに投げる
+
+urlにGitHubのissueのURL
+webhook_urlに投稿するSlackチャンネルのURL
